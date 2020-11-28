@@ -1,1 +1,2 @@
 # gitskills
+other computer dev
